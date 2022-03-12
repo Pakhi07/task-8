@@ -1,6 +1,6 @@
 var i=5;
 function button1(){
-    windows.localStorage.setItem("food","pizza");
+    localStorage.setItem("food","pizza");
 }  
 
 function button3(){
