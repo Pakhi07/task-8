@@ -17,6 +17,7 @@ function button3(){
      i=im;
 }
     
-  
-function button4(){} 
-function button5(){} 
+
+function button6(){
+    console.log("I did it");
+} 
